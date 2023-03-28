@@ -5,4 +5,4 @@
 ### 📦 [Here is a link to DockerHub](https://hub.docker.com/repository/docker/lcassiol/full-cycle-rocks-go/general)
 
 ### ▶️ To run this image just type in your terminal
-docker run --name fullcyclerocks lcassiol/full-cycle-rocks-go
+> **docker run --name fullcyclerocks lcassiol/full-cycle-rocks-go**
